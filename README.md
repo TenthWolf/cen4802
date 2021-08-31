@@ -1,6 +1,4 @@
 
-# Fibonacci Class requirements:
+# cen 4802
 
-Comments
-
-JavaDoc implementation
+official class repo used for the entire semester
